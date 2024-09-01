@@ -1,5 +1,4 @@
 # Coffe-shop-sales-analysis
-
 Monthly Sales Growth: A steady increase, peaking in June.
 Footfall vs. Sales: High correlation, indicating effective conversion of foot traffic into sales.
 Location Sales Contribution: Tribeca is the top-performing location.
