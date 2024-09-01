@@ -1,9 +1,15 @@
 # Coffe-shop-sales-analysis
+
 Monthly Sales Growth: A steady increase, peaking in June.
+
 Footfall vs. Sales: High correlation, indicating effective conversion of foot traffic into sales.
+
 Location Sales Contribution: Tribeca is the top-performing location.
+
 Top Product Sales: 'Brazilian' coffee blend and 'Cappuccino' are the best sellers.
+
 Daily Sales: Highest on Fridays, lowest on Sundays.
+
 Revenue Contribution by Category: Large tea and bakery items are the leading contributors.
 
 Footfall vs. Sales (Line Chart): This chart compares the number of visitors (footfall) to the units sold over different times. It illustrates a peak in both footfall and sales during specific times, followed by a decline.
